@@ -1,0 +1,44 @@
+#wrapper{
+	width: 960px;
+	margin: 0px auto;	
+}
+
+#hero_wrapper{
+	padding-top: 50px;
+}
+	
+#body{
+	padding-top: 50px;
+}
+
+#create_btn{
+	margin-left: 40px;
+}
+
+#save_btn{
+	margin-top: 10px;
+}
+
+.import_data{
+	background-color: #DFDFDF;
+	padding: 10px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.nav-tabs {
+    margin-bottom: 0px;
+}
+
+.save{
+	margin-left: 400px;
+}
+
+.imp_data{
+	margin-left: 380px;
+}

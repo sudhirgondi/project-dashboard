@@ -1,0 +1,20 @@
+#wrapper{
+	width: 960px;
+	margin: 0px auto;	
+}
+
+#hero_wrapper{
+	padding-top: 50px;
+}
+	
+#body{
+	padding-top: 50px;
+}
+
+#create_btn{
+	margin-left: 40px;
+}
+
+#save_btn{
+	margin-top: 10px;
+}
